@@ -7,4 +7,6 @@ My JavaScript learning journey and notes.
 - Promises
 - DOM Manipulation
 
+Author - Asgaree
+
 I will keep updating this repository as I learn more.
